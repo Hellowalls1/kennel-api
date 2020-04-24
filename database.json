@@ -20,23 +20,57 @@
       "breed": "Husky",
       "customerId": 3,
       "locationId": 1
+    },
+    {
+      "name": "Jon durr",
+      "locationId": 2,
+      "customerId": 5,
+      "id": 4
+    },
+    {
+      "name": "Yo",
+      "breed": "Yo",
+      "locationId": 1,
+      "customerId": 5,
+      "id": 5
     }
   ],
   "customers": [
     {
-      "id": 1,
-      "name": "Hannah Hall",
-      "address": "7002 Chestnut Ct"
+      "email": "Tim@timmy.com",
+      "password": "Timmy",
+      "name": "Tim George",
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "Caitlin Stein",
-      "address": "4 Killian Trace"
+      "email": "uh@uh.com",
+      "password": "uh",
+      "name": "Tim TTTTT",
+      "id": 2
     },
     {
-      "id": 3,
-      "name": "Sam Something",
-      "address": "4504 Main St."
+      "email": "Timmmmy@gmail.com",
+      "password": "Tim",
+      "name": "Tim Tim",
+      "id": 3
+    },
+    {
+      "email": "pat@pat.com",
+      "password": "pat",
+      "name": "pat pat",
+      "id": 4
+    },
+    {
+      "email": "pat@pat.com",
+      "password": "pat",
+      "name": "pat pat",
+      "id": 5
+    },
+    {
+      "email": "Eva@eva.com",
+      "password": "eva",
+      "name": "Eva Eva",
+      "id": 6
     }
   ],
   "employees": [
@@ -64,7 +98,7 @@
       "address": "4000 Maxwell St.",
       "locationId": 2
     }
-   ],
+  ],
   "locations": [
     {
       "id": 1,
